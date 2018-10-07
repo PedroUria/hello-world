@@ -8,3 +8,5 @@ Let's have some fun, alright!
 
 ![m](https://media.giphy.com/media/11clOWGCHzWG7C/giphy.gif)
 
+Let’s see if I can control this from the command line…
+
